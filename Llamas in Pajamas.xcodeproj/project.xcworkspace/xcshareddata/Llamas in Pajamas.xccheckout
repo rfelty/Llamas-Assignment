@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62DAA52E-5040-44D5-84F6-F0FE4A8A8B7C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Llamas in Pajamas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10F9352F9C5752B9F239631E3F00718ECEA5DB40</key>
+		<string>https://github.com/Thinkful-Ed/Llamas-in-Pajamas-Assignment</string>
+		<key>44487B07666BC7B038788EEE2E051D86F26DFE8C</key>
+		<string>https://github.com/rfelty/Llamas-Assignment.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Llamas in Pajamas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10F9352F9C5752B9F239631E3F00718ECEA5DB40</key>
+		<string>../../../Llamas-in-Pajamas-Assignment</string>
+		<key>44487B07666BC7B038788EEE2E051D86F26DFE8C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rfelty/Llamas-Assignment.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44487B07666BC7B038788EEE2E051D86F26DFE8C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44487B07666BC7B038788EEE2E051D86F26DFE8C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Llamas-Assignment</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10F9352F9C5752B9F239631E3F00718ECEA5DB40</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Llamas-in-Pajamas-Assignment</string>
+		</dict>
+	</array>
+</dict>
+</plist>
